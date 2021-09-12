@@ -1,0 +1,63 @@
+#Penguin #page-header{
+	background-color: #435FB4 !important;
+}
+
+#Penguin #page-sidebar ul li a .glyph-icon{
+	color: #435FB4 !important;
+}
+
+#Penguin li.active a.list-group-item, li.active a.list-group-item:hover, li.active a.list-group-item:focus {
+    color: #fff;
+    background: #435FB4;
+    border-color: transparent;
+}
+
+#Penguin .btn.bg_blue{
+	background-color: #435FB4 !important;
+	border: 0;
+}
+
+#Penguin .progress-bar-info, .bootstrap-switch-info, .checkbox-info div[id^="uniform-"] span.checked, .radio-info div[id^="uniform-"] span.checked, .badge-info, .label-info, .btn-info, .hover-blue:hover, .hover-info:hover, .bg-blue {
+    color: #fff;
+    border-color: #435FB4;
+    background: #435FB4;
+}
+
+/*paginacion*/
+#Penguin .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus{
+    background-color: #5E9AEE !important;
+    border-color: #5E9AEE;
+}
+
+
+/*Converge 360 #ff2b63*/
+#Salamander #page-header{
+	background-image: linear-gradient(to right bottom, #120e55, #1b1472, #261a90, #3220af, #3f26cf) !important;
+}
+
+#Salamander #page-sidebar ul li a .glyph-icon{
+	color: #120E55 !important;
+}
+
+#Salamander li.active a.list-group-item, li.active a.list-group-item:hover, li.active a.list-group-item:focus {
+    color: #fff;
+    background: #120E55;
+    border-color: transparent;
+}
+
+#Salamander .btn.bg_blue{
+	background-image: linear-gradient(to right bottom, #120e55, #1b1472, #261a90, #3220af, #3f26cf) !important;
+	border: 0;
+}
+#Salamander .progress-bar-info, .bootstrap-switch-info, .checkbox-info div[id^="uniform-"] span.checked, .radio-info div[id^="uniform-"] span.checked, .badge-info, .label-info, .btn-info, .hover-blue:hover, .hover-info:hover{
+    color: #fff;
+    border-color: #120E55;
+    background-image: linear-gradient(to right bottom, #120e55, #1b1472, #261a90, #3220af, #3f26cf)  !important;
+}
+
+
+/*paginacion*/
+#Salamander  .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus{
+    background-color: #120E55 !important;
+    border-color: #120E55;
+}
